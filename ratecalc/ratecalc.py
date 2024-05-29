@@ -1,5 +1,7 @@
 #!/usr/local/bin/python3
 
+# this is my comment
+
 import time
 import random
 import collections
